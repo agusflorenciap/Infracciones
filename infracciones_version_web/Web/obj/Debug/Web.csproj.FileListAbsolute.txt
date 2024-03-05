@@ -1,0 +1,231 @@
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Web.dll.config
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Web.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Web.pdb
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\csc.exe
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\csc.exe.config
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\csc.rsp
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\csi.exe
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\csi.rsp
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\System.AppContext.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\vbc.exe
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\vbc.exe.config
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\vbc.rsp
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\posea\Desktop\Final Electiva\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Antlr3.Runtime.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Newtonsoft.Json.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\System.Web.Optimization.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\WebGrease.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\System.Web.Optimization.xml
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Newtonsoft.Json.xml
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Antlr3.Runtime.pdb
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\posea\Desktop\Final Electiva\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\posea\Desktop\Final Electiva\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\posea\Desktop\Final Electiva\Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\posea\Desktop\Final Electiva\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Final Electiva\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Final Electiva\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\posea\Desktop\Final Electiva\Web\obj\Debug\Web.dll
+C:\Users\posea\Desktop\Final Electiva\Web\obj\Debug\Web.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\obj\Debug\Web.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\obj\Debug\Web.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Web.dll.config
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Web.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Web.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\csc.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\csc.exe.config
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\csc.rsp
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\csi.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\csi.rsp
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\System.AppContext.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\vbc.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\vbc.exe.config
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\vbc.rsp
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Antlr3.Runtime.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\CapaNegocios.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Newtonsoft.Json.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\System.Web.Optimization.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\WebGrease.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\CapaNegocios.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\System.Web.Optimization.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Newtonsoft.Json.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Antlr3.Runtime.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Excepciones.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\Web\bin\Excepciones.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Web.dll.config
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Web.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Web.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\csc.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\csc.exe.config
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\csc.rsp
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\csi.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\csi.rsp
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\System.AppContext.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\vbc.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\vbc.exe.config
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\vbc.rsp
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Antlr3.Runtime.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\CapaNegocios.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Excepciones.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Newtonsoft.Json.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\System.Web.Optimization.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\WebGrease.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\CapaNegocios.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Excepciones.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\System.Web.Optimization.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Newtonsoft.Json.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Antlr3.Runtime.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\obj\Debug\Web.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\obj\Debug\Web.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB -Y PDFF\Web\bin\itextsharp.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Web.dll.config
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Web.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Web.pdb
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\csc.exe
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\csc.exe.config
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\csc.rsp
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\csi.exe
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\csi.rsp
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\System.AppContext.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\vbc.exe
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\vbc.exe.config
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\vbc.rsp
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Antlr3.Runtime.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\CapaNegocios.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Excepciones.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Newtonsoft.Json.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\System.Web.Optimization.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\WebGrease.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\CapaDatos.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\CapaNegocios.pdb
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Excepciones.pdb
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\System.Web.Optimization.xml
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Newtonsoft.Json.xml
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Antlr3.Runtime.pdb
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\CapaDatos.pdb
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\obj\Debug\Web.dll
+C:\Users\posea\Desktop\Pose Agustina (48010680) Final Electiva de Programación\Final Electiva CON WEB Y PDF\Web\obj\Debug\Web.pdb

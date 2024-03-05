@@ -1,0 +1,27 @@
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\posea\Desktop\Final Electiva\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\posea\Desktop\Final Electiva SIN WEB\CapaNegocios\obj\Debug\CapaNegocios.pdb

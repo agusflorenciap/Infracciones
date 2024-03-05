@@ -1,0 +1,18 @@
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Modern-Media-Player-UI-C-Sharp-master\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Final Electiva\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Final Electiva\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\posea\Desktop\Final Electiva CON WEB\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\posea\Desktop\Final Electiva CON WEB\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\posea\Desktop\Final Electiva CON WEB\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\posea\Desktop\Final Electiva CON WEB\CapaDatos\obj\Debug\CapaDatos.pdb
