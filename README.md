@@ -15,5 +15,5 @@ The project involves creating software to manage the registration and payment of
 
 <h2>Language and environment</h2>
 
-- <b>C# in Visual Studio 2019. Data persistence in Access</b>
+- <b>C# in Visual Studio 2019. Data storage in Access</b>
 
